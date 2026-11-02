@@ -15,3 +15,7 @@ For an existing notebook covering tabular classification experiments, explore [K
 ## Adding a forecasting blueprint
 
 Each future notebook should document its dataset, target, forecast horizon, chronological training/validation/test boundaries, baseline, metric, and environment. Fit preprocessing on the training period and evaluate on later observations so the reported result represents a forward forecast.
+
+## License
+
+[MIT](LICENSE).
