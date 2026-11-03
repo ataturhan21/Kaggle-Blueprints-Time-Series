@@ -4,7 +4,15 @@ A workspace for time-series forecasting references and future notebook blueprint
 
 ## Current contents
 
-The current branch contains this README and [Useful Links.txt](Useful%20Links.txt), a collection of references on tabular-data performance, memory optimization, Keras, and PyCaret.
+The current branch contains this README and its reference list on tabular-data performance, memory optimization, Keras, and PyCaret.
+
+## References
+
+- [Never worry about optimization: process GBs of tabular data 25x faster with no-code pandas](https://towardsdatascience.com/never-worry-about-optimization-process-gbs-of-tabular-data-25x-faster-with-no-code-pandas-e85ede4c37d5)
+- [Seven killer memory optimization techniques every pandas user should know](https://towardsdatascience.com/seven-killer-memory-optimization-techniques-every-pandas-user-should-know-64707348ab20)
+- [Building complex deep learning models using the Keras functional API](https://pub.towardsai.net/building-complex-deep-learning-models-using-keras-functional-api-38090f4769a4)
+- [Scaling PyCaret with Spark or Dask through Fugue](https://towardsdatascience.com/scaling-pycaret-with-spark-or-dask-through-fugue-60bdc3ce133f)
+- [PyCaret review](https://towardsdatascience.com/pycaret-review-65cbe2f663bb)
 
 Forecasting notebooks, datasets, dependency manifests, and trained models are not included yet. There is no runnable forecasting pipeline in this repository.
 
