@@ -16,6 +16,10 @@ The current branch contains this README and its reference list on tabular-data p
 
 Forecasting notebooks, datasets, dependency manifests, and trained models are not included yet. There is no runnable forecasting pipeline in this repository.
 
+## Earlier Migros notebooks
+
+This repository previously held Migros datathon notebooks (`Migros.ipynb`, `Migros-Catboost.ipynb`, `Migros-Final.ipynb`) with their logs and submission files. They were removed in commit 4b01801 and remain available in the history at commit [ffc79f3](https://github.com/ataturhan21/Kaggle-Blueprints-Time-Series/tree/ffc79f3565af76e9e4c551370be4126e4f222ca9).
+
 ## Related implementation
 
 For an existing notebook covering tabular classification experiments, explore [Kaggle-Blueprints](https://github.com/ataturhan21/Kaggle-Blueprints). It is a separate project and does not establish a time-series evaluation workflow.
