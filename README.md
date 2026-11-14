@@ -28,6 +28,6 @@ For an existing notebook covering tabular classification experiments, explore [K
 
 Each future notebook should document its dataset, target, forecast horizon, chronological training/validation/test boundaries, baseline, metric, and environment. Fit preprocessing on the training period and evaluate on later observations so the reported result represents a forward forecast.
 
-## License
+## Copyright
 
-[MIT](LICENSE).
+© Ata Turhan. All rights reserved. This repository has no open-source license: its code may not be copied, modified or redistributed.
